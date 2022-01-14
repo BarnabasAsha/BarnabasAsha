@@ -22,4 +22,4 @@ I currently work with
 - Webpack/Parcel
 - Mongo DB
 
-Here is my [Portfolio](https://billowy-ash-410.notion.site/Barnabas-Asha-Frontend-Developer-729822c69ef742ab98d6d3c8069554b9)
+Find me [here](https://billowy-ash-410.notion.site/Barnabas-Asha-Frontend-Developer-729822c69ef742ab98d6d3c8069554b9)
